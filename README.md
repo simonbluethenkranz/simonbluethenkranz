@@ -10,6 +10,7 @@
 - **Galarie** - A WebApp for Organizing Color when producing a Movie. (An interactive Web Colorscript/Contact Sheet)
 - **Koie** - A WebApp for notetaking and sharing simple tools in a CG Pipeline
 - **Rooms** - A simple peer to peer chatting app with review capabilities.
+- **Hyperreel** - Create an interactive experience for your Showreel by displaying your shotbreakdown and aditional information linked to the timecode.
 
 #### Maya Tools and Plugins:
 - *Maya***AnimExporter** *(working title)* - Tool for quickly exporting Animations to Lighting. 
