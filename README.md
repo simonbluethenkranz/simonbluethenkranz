@@ -18,7 +18,7 @@
 - *Maya***LightGroupHelper** *(working title)* - Tool for managing Lightgroups in Maya *(Currently Supports Arnold/Redshift)*
 
 #### Standalone/Multiplatform:
-- **HdSim** *(working title)* - A simple custom Path Tracer and Hydra Render delegate
+- **HdBlu** *(working title)* - A simple custom Path Tracer and Hydra Render delegate
 - **StyleDescription** - Streamlined workflow for working with stylized looks consisting of a custom USD schema, a set of OSL Shader and coresponding C++ nodes for nuke. 
 - **Shelff** - Asset Manager for a Serverless decentralized pipeline
 
